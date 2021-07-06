@@ -1,0 +1,127 @@
+[
+    {
+        "id": "1",
+        "name": "Tv",
+        "price": "20000"
+    },
+    {
+        "id": "2",
+        "name": "Micro-wave",
+        "price": "10000"
+    },
+    {
+        "id": "3",
+        "name": "Washing-machine",
+        "price": "1500"
+    },
+    {
+        "id": "4",
+        "name": "newProd",
+        "price": "5000"
+    },
+    {
+        "id": "5",
+        "name": "newProd 2",
+        "price": "5000"
+    },
+    {
+        "id": "6",
+        "name": "newProd",
+        "price": "5000"
+    },
+    {
+        "id": "7",
+        "name": "newProd",
+        "price": "5000"
+    },
+    {
+        "id": "8",
+        "name": "newProd",
+        "price": "5000"
+    },
+    {
+        "id": "9",
+        "name": "newProd",
+        "price": "5000"
+    },
+    {
+        "id": "10",
+        "name": "newProd",
+        "price": "5000"
+    },
+    {
+        "id": "11",
+        "name": "newProd",
+        "price": "5000"
+    },
+    {
+        "id": "12",
+        "name": "newProd",
+        "price": "5000"
+    },
+    {
+        "id": "13",
+        "name": "newProd",
+        "price": "5000"
+    },
+    {
+        "id": "14",
+        "name": "newProd",
+        "price": "5000"
+    },
+    {
+        "id": "15",
+        "name": "newProd",
+        "price": "5000"
+    },
+    {
+        "id": "16",
+        "name": "newProd",
+        "price": "5000"
+    },
+    {
+        "id": "17",
+        "name": "newProd",
+        "price": "5000"
+    },
+    {
+        "id": "18",
+        "name": "newProd",
+        "price": "5000"
+    },
+    {
+        "id": "19",
+        "name": "newProd",
+        "price": "5000"
+    },
+    {
+        "id": "22",
+        "name": "new product",
+        "price": "100"
+    },
+    {
+        "id": "23",
+        "name": "newProd",
+        "price": "5000"
+    },
+    {
+        "id": "24",
+        "name": "newProd",
+        "price": "5000"
+    },
+    {
+        "id": "25",
+        "name": "newProd",
+        "price": "5000"
+    },
+    {
+        "id": "26",
+        "name": "newProd",
+        "price": "5000"
+    },
+    {
+        "id": "27",
+        "name": "newProd",
+        "price": "5000"
+    }
+]
